@@ -16791,7 +16791,7 @@ a .grey {
 
 a.external,
 a[rel='external'] {
-    background: url('/static/images/icon_external.gif') no-repeat top right;
+    background: url('/images/icon_external.gif') no-repeat top right;
     padding-right: 18px
 }
 
